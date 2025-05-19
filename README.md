@@ -21,12 +21,6 @@ This single-page portfolio showcases my academic background, engineering experie
 👉 [https://saeid436.github.io](https://saeid436.github.io)
 
 ---
-
-## 📄 Resume
-
-You can download my resume directly from the site, or from this repo:  
-[📄 `resume.pdf`](./resume.pdf)
-
 ---
 
 ## 🔧 Technologies Used
