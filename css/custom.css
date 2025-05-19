@@ -1,0 +1,50 @@
+.project-image img{
+    width: 200px;
+    height: 200px;
+}
+#lead-content a{
+    color: white;
+}
+#lead-content a:hover{
+    color: rgb(15, 2, 104);
+}
+#lead-content h3{
+    color: white;
+}
+#menu{
+    /* width: 70%; */
+}
+#contact-form input{
+    color: #000;
+}
+#contact-form input:focus{
+    background-color: white;
+    color: gray;
+}
+#contact-form textarea:focus{
+    background-color: white;
+     color: gray;
+}
+#contact-form input::placeholder{
+    color: gray;
+}
+#contact-form textarea::placeholder{
+     color: gray;
+}
+#contact-form button{
+    background-color: #e4e4e4;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    /* background-color: #fff; /* or whatever background matches your design */
+    /* width: 100%; */ */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* optional, for better visibility */
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#contact p{
+    color: #ebebeb;
+}
