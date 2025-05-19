@@ -27,5 +27,5 @@ To run this site locally or deploy it, you'll need:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/your-cv-site.git
-cd your-cv-site
+git clone https://github.com/saeid436/saeid436.github.io.git
+cd saeid436.github.io
