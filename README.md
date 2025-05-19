@@ -1,31 +1,41 @@
-# 🧑‍💼 Personal CV - Single Page Website
+# 🧑‍💼 Saeid's Portfolio Website
 
-This is a clean and modern single-page CV (Curriculum Vitae) or Resume website built with HTML, CSS, and optionally JavaScript. It's designed to showcase your skills, experience, education, and projects in a concise format.
+Welcome to the source code of my personal portfolio website: [saeid436.github.io](https://saeid436.github.io)
 
-## 🌐 Live Demo
+This single-page portfolio showcases my academic background, engineering experience, research interests, and projects in data science, machine learning, computer vision, and embedded systems.
 
-[🔗 Visit Live Website](https://your-username.github.io/your-cv-site)
+---
 
-## 📄 Features
+## 📌 Features
 
-- One-page responsive design
-- Downloadable resume (PDF)
-- Social media links (LinkedIn, GitHub, Twitter, etc.)
-- Skills, experience, education, and projects sections
-- Easy customization with basic HTML/CSS knowledge
+- Clean, mobile-friendly, responsive design
+- Downloadable resume in PDF format
+- Social media links (GitHub, LinkedIn)
+- Projects and academic highlights
+- Contact section for job or research opportunities
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
+## 🔗 Live Site
 
-To run this site locally or deploy it, you'll need:
+👉 [https://saeid436.github.io](https://saeid436.github.io)
 
-- A web browser (Chrome, Firefox, etc.)
-- Git (for cloning the repository)
-- A code editor (e.g., VSCode)
+---
 
-### Installation
+## 📄 Resume
 
-```bash
-git clone https://github.com/saeid436/saeid436.github.io.git
-cd saeid436.github.io
+You can download my resume directly from the site, or from this repo:  
+[📄 `resume.pdf`](./resume.pdf)
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** (if used)
+- Hosted via **GitHub Pages**
+
+---
+
+## 📂 File Structure
