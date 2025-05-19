@@ -27,9 +27,7 @@ This single-page portfolio showcases my academic background, engineering experie
 
 - **HTML5**
 - **CSS3**
-- **JavaScript** (if used)
+- **JavaScript**
 - Hosted via **GitHub Pages**
 
 ---
-
-## 📂 File Structure
