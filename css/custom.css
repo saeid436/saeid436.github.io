@@ -48,3 +48,31 @@ body{
 #contact p{
     color: #ebebeb;
 }
+.social{
+    text-align: center;
+}
+.social a:hover{
+    color: #9b9fb7
+}
+#publications{
+    padding: 50px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center;
+}
+.publication-block{
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    padding: 15px;
+    border: 1px solid #dcd9d9;
+    text-align: left;
+    border-radius: 5px;
+    margin: 5px;
+    width: 47%;
+}
+.bold-text {
+  font-weight: bold;
+}
+.publication-block p{
+        font-size: small;
+    font-family: serif;
+}
