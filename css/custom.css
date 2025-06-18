@@ -76,3 +76,14 @@ body{
         font-size: small;
     font-family: serif;
 }
+#about{
+    background: #f2f2f5;
+}
+#awards{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.education-block{
+    border-radius: 7px;
+}
